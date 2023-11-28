@@ -7,7 +7,7 @@ try{
 // host, HOST is defined as "localhost", which typically represents the location of the database server.
 define("HOST", "localhost");
 //dbname, the database name
-define("DBNAME", "coffee-blend2");
+define("DBNAME", "coffee-blend");
 //username of the database by default it is root
 define("USER", "root");
 //password of the database by default it its nothing no password
